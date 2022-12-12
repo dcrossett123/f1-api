@@ -1,0 +1,19 @@
+{
+  "name": "f1-api",
+  "version": "1.0.0",
+  "description": "f1 wrapper around ergast developer api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcrossett123/f1-api.git"
+  },
+  "author": "Dean Crossett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcrossett123/f1-api/issues"
+  },
+  "homepage": "https://github.com/dcrossett123/f1-api#readme"
+}
